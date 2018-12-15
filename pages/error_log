@@ -1,0 +1,29 @@
+[29-Jan-2018 05:10:50 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'zebakico_procurement'@'localhost' (using password: YES) in /home/zebakico/public_html/Procurement/Waondo/pages/dbConnect.php on line 7
+[29-Jan-2018 05:24:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php:25) in /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php on line 28
+[01-Feb-2018 16:37:46 UTC] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 49
+[01-Feb-2018 16:37:46 UTC] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 97
+[01-Feb-2018 17:02:38 UTC] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 100
+[01-Feb-2018 17:16:39 UTC] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 100
+[01-Feb-2018 17:21:40 UTC] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 100
+[01-Feb-2018 19:30:20 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 102
+[01-Feb-2018 17:32:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php:25) in /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php on line 28
+[01-Feb-2018 17:32:42 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php:25) in /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php on line 28
+[01-Feb-2018 17:32:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php:25) in /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php on line 28
+[02-Feb-2018 10:55:13 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 104
+[02-Feb-2018 11:03:34 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 108
+[02-Feb-2018 11:06:30 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 108
+[02-Feb-2018 11:11:28 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:12:51 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:13:21 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:15:36 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:16:11 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:19:23 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:21:23 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 110
+[02-Feb-2018 11:24:45 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 112
+[02-Feb-2018 11:27:06 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 112
+[02-Feb-2018 11:29:27 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 112
+[02-Feb-2018 11:30:22 Europe/Helsinki] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 112
+[02-Feb-2018 10:15:10 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php:25) in /home/zebakico/public_html/Procurement/Waondo/pages/grtFeeds.php on line 28
+[09-Mar-2018 20:32:06 Africa/Nairobi] PHP Fatal error:  Call to undefined function send_notifications() in /home/zebakico/public_html/Procurement/Waondo/pages/paintShare.php on line 63
+[18-Jun-2018 10:10:23 Africa/Nairobi] PHP Warning:  move_uploaded_file(uploads/5b275adf1571b.png): failed to open stream: No such file or directory in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 38
+[18-Jun-2018 10:10:23 Africa/Nairobi] PHP Warning:  move_uploaded_file(): Unable to move '/tmp/phpZY6GaU' to 'uploads/5b275adf1571b.png' in /home/zebakico/public_html/Procurement/Waondo/pages/forms.php on line 38
